@@ -1,0 +1,35 @@
+.nav {
+    margin: 25px;
+    margin-top: 25px;
+    font-size: 30px;
+    color: darkred;
+}
+
+
+
+
+.semester-list {
+    list-style-type: lower-greek;
+    margin-left: 10px;
+    font-size: 20px;
+    color: rgb(29, 1, 1);}
+
+    .semester {
+background-color: linen;
+border-width: 2px;
+border-style: solid;
+border-color: rgb(70, 0, 0);
+padding: 15px;
+margin : 10px;
+font-family: 'franklin gothic medium', 'arial narrow', Arial, sans-serif;
+font-weight: extra-light;
+font-size: 25px;
+}
+
+   .class-fall-25 {
+    font-family: 'franklin gothic medium', 'arial narrow', Arial, sans-serif;
+    font-weight: light;
+    font-size: 15px;
+    margin: 10px;
+    color: rgb(54, 2, 2);
+   }
